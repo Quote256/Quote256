@@ -1,5 +1,5 @@
 # <div align="center">Hi there 👋 , I'm Bradon </div>
-**Junior Computer Science Student at Howard University**
+**<div align="center">Junior Computer Science Student at Howard University</div>**
 
 <!--
 **Quote256/Quote256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
