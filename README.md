@@ -1,5 +1,5 @@
 # <div align="center">Hi there 👋 , I'm Bradon </div>
-**<div align="center">Senior Computer Science Student at Howard University </div>**
+**<div align="center">Computer Science PhD Student at Cornell University </div>**
 
 
 <!--
